@@ -1,0 +1,74 @@
+--------------------------------------------------------LOGIN:----------------------------------------------------------------------------
+# Importamos las librerías 
+
+
+# Función para manejar el evento de inicio de sesión
+# Obtenemos el texto ingresado en el campo de usuario
+* Obtenemos el texto ingresado eh el campo de contraseña
+# Validamos el usuario y la contraseña
+# Nostramos un mensaje de éxito
+# Mostramos un mensaje de error
+# Configuración de la ventana principal
+
+* Creación de etiquetas y campos de entrada
+* Etiqueta para el campo de usuario
+
+# Etiqueta para el campo de contraseña
+* Agregamos la etiqueta a la ventana con un pequeño margen vertical
+# Campo de entrada para la contraseña, con ocultación de caracteres
+# Agregamos el campo de entrada a la ventana
+# Creación del botón de inicio de sesión
+* Botón que llama a la función login cuando se presiona
+* Agregamos el botón a la ventana con un margen vertical mayor
+# Bucle principal de la aplicación
+ 
+----------------------------------------------VENTANA DE DORMITORIO:----------------------------------------------------------------------
+
+# creación de etiqueta ( que indique el lugar en donde se encuentra la tusa)
+# inserción de señales en forma de flecha ( indicara el lugar en donde puede estar sentada la tusa) 
+# creación de botón ( será otorgada a la lámpara para prender y apagar la luz ) 
+# creación de gestos ( al tocar la tusa está se moverá de distintas formas)
+Creación de botón ( será en forma de labial y al tocarlo podrá ser usado en la tusa ) 
+
+Este es un escenario más con los que cuenta la tusa y como en cada uno de ellos podremos encontrar distintos botones y señalamientos que mejorarán la experiencia con el usuario
+-------------------------------------------------------JUEGOS:--------------------------------------------------------------------------
+
+-Utilizamos las herramientas para poder dar el color del fondo qué es negro.
+-Boton para poner los recuadros dej juego.
+-Agregamos un etiqueta, para poner la foto de la tuza.
+-boton "<"">" nos sirve para dar las direcciones de izquierda y derecha para poder moverse.
+- etiqueta, para poder colocar una medalla qué gano el juego
+#2
+El juego de la tuza, es parte esencial dentro del juego ya qué te permite ganar  dinero, o hasta incluso poder jugar otros juegos.
+Dentro del escenario, utilizamos botones, las herramientas para el color,agregamos los diseños para dar forma del juego.
+-Las herramientas nos permiten y tienen su
+ funcionamiento ya qué en el fondo le puse negro.
+- botón le agregué un resorte para que la tuza brinque.
+- boton puse unaa lineas rectas con dinero ya qué la tuza brinca y va por ellos.
+-boton "<"">" nos sirve para dar las direcciones de izquierda y derecha para podoverse.
+- Etiqueta, agregué en la izquierda superior una etiqueta de imagen ya qué le puedes poner texto.
+- botón, puse 3 estrellas para cuando finalize el juego y significa que gano.
+
+--------------------------------------------------------------COCINA:--------------------------------------------------------------------
+  La cocina de la tuzita es una parte importante del juego que te permite cuidar y alimentar a tu mascota virtual. Al comprender las mecánicas y funciones de la cocina, puedes mantener a tuzita feliz, saludable y entretenido mientras subes de nivel y desbloqueas nuevos contenidos.
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+Comedero: Situado en el centro de la cocina, el comedero es donde tuzita consume la comida que le das. 
+°°°°°°°°°°°°°°°′°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+#2Botón de alimentación: Este botón, representado por un pastelito, se encuentra junto al comedero. Al tocarlo, se abre un menú con todos los alimentos disponibles en la nevera. Puedes seleccionar el alimento que deseas darle a tuzita y él lo comerá de inmediato.
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+#3Botones de "<" ">": estos botones nos servirán para cambiar de alimento que desees darle a tu tuza de lado izquierdo es para regresar a la anterior comida y el lado derecho servirá para cambiar aleatoriamente la comida °Encontrarás bebidas , dulces , fruta etc.
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+  fondo  : agregue un fondo de cocina donde se encuentra en medio la tuza
+
+-------------------------------------------------BAÑO:------------------------------------------------------------------------------------
+
+     ##creación de boton ( este sera en forma de regadera y al tocarlo dejara caer agua )##
+-el boton "<<>>” nos sirve para dar indicaciones en la  direccion de izquierda y derecha para poder moverse.
+
+Inserción de movimientos ( podrás arrastrar a la tusa en cualquier parte de la pantalla)
+
+Inserción de movimientos ( podrás arrastrar el jabon en cualquier parte de la pantalla )
+
+
+
+
